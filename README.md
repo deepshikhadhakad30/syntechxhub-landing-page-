@@ -9,4 +9,4 @@ Project-2 - https://www.figma.com/design/ylJ7rcsfrlWdAKO0TKiAdr/new-project-synt
 Project-3 - https://www.figma.com/design/ylJ7rcsfrlWdAKO0TKiAdr/new-project-syntechxhub?node-id=542-2&p=f&t=wPqpidDmaWiwh60a-0
 
 # laundary & Services UX case study 
-Project - 4 - https://www.figma.com/design/3jqPGb9k9EvryBtPsu1Rl1/UX-CASE-STUDY?node-id=119-176&p=f&t=EZWuznIvpLvDYLwE-0
+Project - 4 - https://www.figma.com/design/3jqPGb9k9EvryBtPsu1Rl1/UX-CASE-STUDY?node-id=1057-3&p=f&t=ghuXa8c8meHTaZF6-0
